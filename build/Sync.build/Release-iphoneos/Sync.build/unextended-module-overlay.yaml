@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/eduardofacanha/Library/Developer/Xcode/DerivedData/Sync-fzrsuwjeqasrppdxsfmtrfozanvx/Build/Intermediates.noindex/ArchiveIntermediates/Sync-Universal/BuildProductsPath/Release-iphoneos/Sync.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/eduardofacanha/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Sync/build/Sync.build/Release-iphoneos/Sync.build/unextended-module.modulemap",
+    }]
+  }]
+}

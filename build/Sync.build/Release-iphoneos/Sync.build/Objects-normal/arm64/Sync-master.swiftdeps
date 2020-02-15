@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "51b07e4b28280a2ed592603e268664a6"
+build_time: [1581790872, 61182000]
+inputs:
+  "/Users/eduardofacanha/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Sync/Sync/Sync.swift": [9223372036, 854775807]
